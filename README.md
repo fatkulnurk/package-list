@@ -10,6 +10,8 @@
 ``` Tool Testing``
 - **Smtp** mailtrap.io
 
+- Laravel ER Diagram Generatot https://github.com/beyondcode/laravel-er-diagram-generator
+
 ## HOSTING & DOMAIN
 ``` domain registrar ```
 - namesilo
